@@ -1,4 +1,2 @@
-# Tomi bácsi repója
-## IKT órai munka
-
-Ez egy commit
+# Beni és Tomi bácsi közös repója
+🤣
