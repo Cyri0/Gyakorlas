@@ -1,7 +1,9 @@
 function elso_function(){
-    return 'Hello Világ'
+    let a = 13
+    return 'Hello Világ' + a
 }
 
 function masodik_function(){
-    return 'Ez bénább function'
+    let alma = "körte"
+    return 'Ez bénább function' + alma
 }
