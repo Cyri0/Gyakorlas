@@ -1,2 +1,2 @@
-# gyakorlas
-IKT órai munka
+# Tomi bácsi repója
+## IKT órai munka
