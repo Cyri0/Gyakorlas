@@ -1,0 +1,2 @@
+# gyakorlas
+IKT órai munka
